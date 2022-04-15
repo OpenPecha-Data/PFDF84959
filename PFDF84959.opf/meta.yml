@@ -1,0 +1,29 @@
+id: PFDF84959
+initial_creation_type: input
+source_metadata:
+  title: Record of teachings received of the rGyud sde kun btus
+  author: འཇམ་དབྱངས་བློ་གཏེར་དབང་པོ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2020-10-29);
+    glosses not encoded, no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was published by Sachen International,
+    Kathmandu (Nepal). (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/779
+  bases:
+    98b8:
+      title: Record of teachings received of the rGyud sde kun btus
+      order: 1
+      base_file: 98b8.txt
+created_at: '2022-04-15T18:31:52.507710'
+last_modified_at: '2022-04-15T18:31:52.507718'
+quality: null
